@@ -36,6 +36,9 @@ color:black;
     transition: 5s;
 
 }
+h1:hover{
+  background-color: white;
+}
 .email{
   display: block;
   margin: 30px;
